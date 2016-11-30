@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="button_erase">Очистить экран</string>
+    <string name="button_set_color">Выбрать цвет</string>
+<string name="button_set_line_width">Установить ширину</string>
+<string name="line_imageview_description">This displays the line thickness</string>
+<string name="label_alpha">Глубина</string>
+<string name="label_red">Красный</string>
+<string name="label_green">Зеленый</string>
+<string name="label_blue">Синий</string>
+<string name="menuitem_delete">Очистить экран</string>
+<string name="menuitem_color">Цвет</string>
+<string name="menuitem_line_width">Ширина линии</string>
+<string name="menuitem_save">Сохранить</string>
+<string name="message_erase">Очистить экран?</string>
+<string name="message_cancel">Отмена</string>
+<string name="message_error_saving">Ошибка при сохранении</string>
+<string name="message_saved">Сохранено в галарею</string>
+<string name="title_color_dialog">Выберите цвет</string>
+<string name="title_line_width_dialog">Выберите ширину линии</string>
+</resources>
